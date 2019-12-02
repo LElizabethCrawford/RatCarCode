@@ -1,5 +1,5 @@
 // Rat Car
-// originally by: Dr Crawford, University of Richmond
+// originally by:LE Crawford, University of Richmond
 // modified by: Thad Martin
 
 
